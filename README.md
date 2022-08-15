@@ -7,4 +7,4 @@ This is redmine.org test project ver. 1.0
 2.3 Write "npm run allure-open" in terminal and press "Enter", wait for allure report opening.
 
 3. Project included .yml file, which run auto tests from redmine project in GitHub actions after every push on main branch of repository.
-To see allure report after execution auto tests in GitHub actions you should open URL: https://github.com/burulina/Redmine_playwright_project/gh-pages/index.html and copy URL with allure report from it (for example: https://burulina.github.io/Redmine_playwright_project/23/). Paste copied URL to browser search bar and press "Enter", wait for allure report opening.
+To see allure report after execution auto tests in GitHub actions you should open URL: https://github.com/Burulina/Redmine_playwright_project/blob/gh-pages/index.html and copy URL with allure report from it (for example: https://Burulina.github.io/Redmine_playwright_project/1/). Paste copied URL to browser search bar and press "Enter", wait for allure report opening.
