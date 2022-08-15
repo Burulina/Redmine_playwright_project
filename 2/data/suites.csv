@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Aug 15 13:22:53 GMT 2022","Mon Aug 15 13:23:06 GMT 2022","12750","chromium","redmine_test.spec.js","Redmine project: test cases","","","Buy books about redmine from home page",""
+"passed","Mon Aug 15 13:22:30 GMT 2022","Mon Aug 15 13:22:38 GMT 2022","8299","chromium","redmine_test.spec.js","Redmine project: test cases","","","Check navigation on main menu redmine.org",""
+"passed","Mon Aug 15 13:22:22 GMT 2022","Mon Aug 15 13:22:30 GMT 2022","8009","chromium","redmine_test.spec.js","Redmine project: test cases","","","Register new redmine account with valid credentials",""
+"passed","Mon Aug 15 13:22:38 GMT 2022","Mon Aug 15 13:22:44 GMT 2022","5384","chromium","redmine_test.spec.js","Redmine project: test cases","","","Download stable releases of redmine",""
+"passed","Mon Aug 15 13:22:44 GMT 2022","Mon Aug 15 13:22:53 GMT 2022","9438","chromium","redmine_test.spec.js","Redmine project: test cases","","","Filter repository revision",""
